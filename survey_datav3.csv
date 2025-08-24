@@ -1,0 +1,323 @@
+Which faculty are you currently enrolled in?,Study Groups and Peer Discussions interest ratings,Academic Workshops  interest ratings,Are you currently a member of any university club or society?,Tech Meetups & Hackathons  interest ratings,Business Idea competition?   interest ratings,A workshop on Mental Health & Stress Management?  interest ratings, What type of academic content are you most interested in? 
+Faculty of Applied Sciences,4,3,Yes,3,3,4,Practical & Technical Skills
+Faculty of Applied Sciences,3,3,Yes,3,3,4,Communication & Leadership
+Faculty of Applied Sciences,3,3,Yes,3,3,5,Data Analysis & Statistics
+Faculty of Applied Sciences,4,3,Yes,3,3,3,Research & Academic Writing
+Faculty of Applied Sciences,2,1,No,1,1,3,Creative & Critical Thinking
+Faculty of Applied Sciences,5,5,Yes,5,5,4,Practical & Technical Skills
+Faculty of Applied Sciences,1,2,Yes,2,3,5,Communication & Leadership
+Faculty of Applied Sciences,4,4,Yes,5,5,4,Practical & Technical Skills
+Faculty of Applied Sciences,5,5,Yes,4,5,5,Creative & Critical Thinking
+Faculty of Applied Sciences,3,2,No,1,1,1,Data Analysis & Statistics
+Faculty of Applied Sciences,3,3,Yes,3,3,2,Practical & Technical Skills
+Faculty of Applied Sciences,3,5,Yes,3,3,3,Communication & Leadership
+Faculty of Applied Sciences,1,1,Yes,1,2,3,Creative & Critical Thinking
+Faculty of Medicine and Allied Sciences,2,5,No,5,1,5,Practical & Technical Skills
+Faculty of Applied Sciences,4,5,Yes,5,2,5,Practical & Technical Skills
+Faculty of Management Studies,4,4,Yes,4,3,4,Business & Management
+Faculty of Social Sciences and Humanities,2,4,Yes,3,3,4,Practical & Technical Skills
+Faculty of Management Studies,5,5,Yes,5,5,5,Practical & Technical Skills
+Faculty of Management Studies,4,4,Yes,4,5,5,Practical & Technical Skills
+Faculty of Applied Sciences,2,3,Yes,3,3,3,Creative & Critical Thinking
+Faculty of Management Studies,5,5,Yes,5,5,4,Data Analysis & Statistics
+Faculty of Applied Sciences,1,5,Yes,3,1,5,Practical & Technical Skills
+Faculty of Applied Sciences,4,4,Yes,4,1,3,Creative & Critical Thinking
+Faculty of Applied Sciences,2,3,Yes,3,3,3,Practical & Technical Skills
+Faculty of Applied Sciences,4,3,Yes,4,2,5,Data Analysis & Statistics
+Faculty of Applied Sciences,5,3,No,3,2,2,Research & Academic Writing
+Faculty of Applied Sciences,5,3,No,4,3,1,Practical & Technical Skills
+Faculty of Applied Sciences,2,3,Yes,4,3,1,Research & Academic Writing
+Faculty of Social Sciences and Humanities,5,3,No,5,5,3,Practical & Technical Skills
+Faculty of Management Studies,5,4,No,4,3,4,Business & Management
+Faculty of Social Sciences and Humanities,4,3,Yes,1,4,4,Research & Academic Writing
+Faculty of Applied Sciences,4,4,No,5,5,5,Data Analysis & Statistics
+Faculty of Medicine and Allied Sciences,3,3,Yes,2,4,1,Communication & Leadership
+Faculty of Social Sciences and Humanities,3,3,No,3,2,1,Research & Academic Writing
+Faculty of Applied Sciences,2,4,Yes,3,3,5,Communication & Leadership
+Faculty of Applied Sciences,3,3,Yes,4,3,4,Practical & Technical Skills
+Faculty of Technology,5,3,No,5,3,4,Research & Academic Writing
+Faculty of Technology,1,4,Yes,5,1,3,Practical & Technical Skills
+Faculty of Technology,2,3,Yes,5,4,2,Research & Academic Writing
+Faculty of Medicine and Allied Sciences,4,4,No,5,5,4,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,4,5,Yes,4,5,4,Business & Management
+Faculty of Medicine and Allied Sciences,4,2,No,3,3,1,Communication & Leadership
+Faculty of Management Studies,4,3,Yes,4,5,5,Research & Academic Writing
+Faculty of Applied Sciences,3,3,Yes,1,3,3,Business & Management
+Faculty of Applied Sciences,2,2,Yes,5,4,1,Research & Academic Writing
+Faculty of Medicine and Allied Sciences,4,5,Yes,3,4,3,Data Analysis & Statistics
+Faculty of Technology,4,5,Yes,1,1,3,Research & Academic Writing
+Faculty of Medicine and Allied Sciences,3,3,Yes,4,3,1,Practical & Technical Skills
+Faculty of Technology,5,5,Yes,1,5,1,Research & Academic Writing
+Faculty of Applied Sciences,1,3,Yes,3,2,2,Data Analysis & Statistics
+Faculty of Agriculture,1,3,Yes,2,2,5,Communication & Leadership
+Faculty of Applied Sciences,5,5,Yes,5,5,5,Practical & Technical Skills
+Faculty of Management Studies,4,4,Yes,4,4,4,Data Analysis & Statistics
+Faculty of Applied Sciences,4,3,Yes,2,4,3,Business & Management
+Faculty of Applied Sciences,2,2,Yes,1,1,2,Communication & Leadership
+Faculty of Social Sciences and Humanities,1,1,Yes,3,1,1,Communication & Leadership
+Faculty of Medicine and Allied Sciences,1,1,No,2,2,1,Creative & Critical Thinking
+Faculty of Applied Sciences,5,5,No,1,1,5,Research & Academic Writing
+Faculty of Social Sciences and Humanities,5,5,Yes,5,3,4,Business & Management
+Faculty of Applied Sciences,2,3,No,1,1,2,Research & Academic Writing
+Faculty of Agriculture,3,4,Yes,3,2,3,Practical & Technical Skills
+Faculty of Agriculture,3,3,Yes,1,1,2,Communication & Leadership
+Faculty of Agriculture,3,4,Yes,1,1,2,Research & Academic Writing
+Faculty of Agriculture,2,2,Yes,1,1,2,Communication & Leadership
+Faculty of Agriculture,3,2,No,1,1,2,Research & Academic Writing
+Faculty of Agriculture,2,2,Yes,1,2,2,Communication & Leadership
+Faculty of Agriculture,2,3,No,1,1,2,Research & Academic Writing
+Faculty of Agriculture,3,3,No,1,1,2,Communication & Leadership
+Faculty of Agriculture,2,3,Yes,4,3,2,Research & Academic Writing
+Faculty of Agriculture,3,3,No,3,4,3,Data Analysis & Statistics
+Faculty of Technology,2,3,No,2,2,3,Research & Academic Writing
+Faculty of Agriculture,3,4,Yes,5,4,1,Data Analysis & Statistics
+Faculty of Agriculture,3,3,Yes,1,1,2,Communication & Leadership
+Faculty of Technology,2,2,Yes,2,2,3,Research & Academic Writing
+Faculty of Technology,3,3,No,5,2,2,Practical & Technical Skills
+Faculty of Technology,1,4,Yes,5,2,3,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,4,3,No,5,4,1,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,2,2,Yes,1,2,2,Research & Academic Writing
+Faculty of Technology,3,2,Yes,1,3,4,Research & Academic Writing
+Faculty of Social Sciences and Humanities,4,2,No,1,2,2,Research & Academic Writing
+Faculty of Social Sciences and Humanities,3,2,Yes,1,2,3,Research & Academic Writing
+Faculty of Social Sciences and Humanities,3,3,Yes,1,2,3,Research & Academic Writing
+Faculty of Management Studies,3,3,No,1,4,3,Research & Academic Writing
+Faculty of Social Sciences and Humanities,4,4,No,4,4,4,Business & Management
+Faculty of Technology,2,4,Yes,2,3,3,Research & Academic Writing
+Faculty of Social Sciences and Humanities,4,3,Yes,5,4,2,Practical & Technical Skills
+Faculty of Agriculture,4,3,No,1,3,4,Research & Academic Writing
+Faculty of Management Studies,2,3,Yes,1,2,2,Communication & Leadership
+Faculty of Social Sciences and Humanities,3,3,Yes,3,3,5,Business & Management
+Faculty of Social Sciences and Humanities,4,3,No,1,3,3,Research & Academic Writing
+Faculty of Technology,4,3,Yes,1,2,3,Research & Academic Writing
+Faculty of Social Sciences and Humanities,4,5,Yes,5,4,3,Practical & Technical Skills
+Faculty of Management Studies,4,3,Yes,1,2,3,Research & Academic Writing
+Faculty of Agriculture,5,3,Yes,4,3,3,Data Analysis & Statistics
+Faculty of Social Sciences and Humanities,2,3,Yes,1,2,2,Communication & Leadership
+Faculty of Social Sciences and Humanities,3,4,Yes,1,2,3,Research & Academic Writing
+Faculty of Technology,3,4,Yes,1,4,4,Research & Academic Writing
+Faculty of Management Studies,4,2,Yes,4,4,2,Practical & Technical Skills
+Faculty of Agriculture,2,4,No,1,3,3,Business & Management
+Faculty of Management Studies,2,2,Yes,1,1,1,Communication & Leadership
+Faculty of Social Sciences and Humanities,1,4,Yes,1,3,2,Business & Management
+Faculty of Management Studies,3,3,Yes,1,1,2,Research & Academic Writing
+Faculty of Management Studies,4,3,Yes,2,4,3,Business & Management
+Faculty of Management Studies,3,3,Yes,1,4,3,Business & Management
+Faculty of Management Studies,2,3,Yes,3,3,3,Business & Management
+Faculty of Management Studies,3,3,Yes,4,3,3,Research & Academic Writing
+Faculty of Management Studies,2,4,Yes,4,3,3,Business & Management
+Faculty of Management Studies,2,4,Yes,3,3,3,Business & Management
+Faculty of Management Studies,2,2,No,2,3,3,Business & Management
+Faculty of Management Studies,5,3,Yes,4,4,3,Research & Academic Writing
+Faculty of Management Studies,4,2,No,5,3,2,Business & Management
+Faculty of Management Studies,2,3,Yes,3,2,3,Business & Management
+Faculty of Social Sciences and Humanities,2,4,No,1,3,2,Business & Management
+Faculty of Medicine and Allied Sciences,2,4,No,1,1,1,Communication & Leadership
+Faculty of Technology,3,3,Yes,1,1,3,Research & Academic Writing
+Faculty of Social Sciences and Humanities,2,3,Yes,3,2,2,Creative & Critical Thinking
+Faculty of Management Studies,3,3,No,1,1,1,Communication & Leadership
+Faculty of Medicine and Allied Sciences,3,4,Yes,1,3,2,Business & Management
+Faculty of Technology,3,4,Yes,1,1,4,Research & Academic Writing
+Faculty of Medicine and Allied Sciences,3,3,No,3,1,2,Creative & Critical Thinking
+Faculty of Technology,4,5,Yes,1,1,4,Research & Academic Writing
+Faculty of Management Studies,3,3,No,2,1,1,Creative & Critical Thinking
+Faculty of Social Sciences and Humanities,3,3,Yes,1,4,2,Business & Management
+Faculty of Technology,3,3,No,1,1,1,Communication & Leadership
+Faculty of Social Sciences and Humanities,2,4,Yes,3,2,2,Practical & Technical Skills
+Faculty of Technology,2,4,No,1,1,2,Communication & Leadership
+Faculty of Medicine and Allied Sciences,2,4,Yes,3,2,2,Practical & Technical Skills
+Faculty of Medicine and Allied Sciences,4,5,Yes,4,4,5,Practical & Technical Skills
+Faculty of Medicine and Allied Sciences,5,4,No,4,5,5,Practical & Technical Skills
+Faculty of Management Studies,5,5,No,5,1,4,Data Analysis & Statistics
+Faculty of Management Studies,3,4,Yes,1,3,1,Business & Management
+Faculty of Medicine and Allied Sciences,2,4,No,1,3,1,Business & Management
+Faculty of Medicine and Allied Sciences,3,4,No,4,4,3,Practical & Technical Skills
+Faculty of Medicine and Allied Sciences,2,5,Yes,3,2,5,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,5,5,Yes,5,5,5,Data Analysis & Statistics
+Faculty of Management Studies,2,3,Yes,1,1,1,Communication & Leadership
+Faculty of Medicine and Allied Sciences,3,5,Yes,3,3,5,Business & Management
+Faculty of Management Studies,4,4,Yes,5,4,3,Practical & Technical Skills
+Faculty of Medicine and Allied Sciences,3,3,Yes,1,3,2,Business & Management
+Faculty of Technology,5,5,Yes,5,5,5,Data Analysis & Statistics
+Faculty of Social Sciences and Humanities,3,4,Yes,3,1,1,Practical & Technical Skills
+Faculty of Management Studies,2,3,No,1,1,1,Communication & Leadership
+Faculty of Management Studies,5,4,Yes,3,5,4,Business & Management
+Faculty of Management Studies,3,3,Yes,1,3,2,Business & Management
+Faculty of Social Sciences and Humanities,3,4,Yes,2,5,2,Business & Management
+Faculty of Social Sciences and Humanities,5,5,No,2,3,5,Research & Academic Writing
+Faculty of Management Studies,4,5,Yes,5,3,4,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,3,3,Yes,2,3,3,Business & Management
+Faculty of Social Sciences and Humanities,3,4,Yes,3,2,2,Communication & Leadership
+Faculty of Management Studies,3,5,No,1,2,2,Research & Academic Writing
+Faculty of Management Studies,3,1,Yes,1,1,1,Research & Academic Writing
+Faculty of Management Studies,5,3,Yes,1,5,5,Business & Management
+Faculty of Social Sciences and Humanities,3,3,Yes,2,3,5,Communication & Leadership
+Faculty of Management Studies,2,3,Yes,2,1,1,Communication & Leadership
+Faculty of Management Studies,2,3,Yes,1,4,1,Business & Management
+Faculty of Social Sciences and Humanities,5,3,Yes,1,4,2,Research & Academic Writing
+Faculty of Management Studies,2,3,Yes,2,1,2,Creative & Critical Thinking
+Faculty of Technology,2,5,Yes,2,1,1,Research & Academic Writing
+Faculty of Technology,3,4,Yes,3,2,1,Practical & Technical Skills
+Faculty of Management Studies,2,4,Yes,3,1,1,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,3,3,Yes,1,4,4,Research & Academic Writing
+Faculty of Social Sciences and Humanities,2,5,Yes,1,2,3,Research & Academic Writing
+Faculty of Technology,4,2,No,1,3,3,Business & Management
+Faculty of Social Sciences and Humanities,3,3,Yes,3,1,1,Practical & Technical Skills
+Faculty of Management Studies,3,3,No,1,1,1,Communication & Leadership
+Faculty of Technology,2,4,No,1,4,2,Business & Management
+Faculty of Social Sciences and Humanities,2,4,Yes,4,1,1,Creative & Critical Thinking
+Faculty of Medicine and Allied Sciences,3,4,No,1,1,1,Communication & Leadership
+Faculty of Social Sciences and Humanities,3,4,Yes,1,1,3,Research & Academic Writing
+Faculty of Technology,3,4,Yes,1,1,1,Communication & Leadership
+Faculty of Medicine and Allied Sciences,2,3,Yes,3,1,1,Practical & Technical Skills
+Faculty of Medicine and Allied Sciences,3,4,Yes,1,1,3,Research & Academic Writing
+Faculty of Technology,3,4,Yes,1,1,3,Research & Academic Writing
+Faculty of Medicine and Allied Sciences,3,3,No,3,1,1,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,3,4,Yes,1,1,3,Research & Academic Writing
+Faculty of Management Studies,2,3,No,1,1,2,Communication & Leadership
+Faculty of Social Sciences and Humanities,2,3,Yes,1,3,1,Business & Management
+Faculty of Technology,2,4,Yes,1,1,2,Communication & Leadership
+Faculty of Management Studies,3,4,No,4,2,2,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,3,3,Yes,2,4,2,Data Analysis & Statistics
+Faculty of Management Studies,4,3,Yes,1,1,3,Research & Academic Writing
+Faculty of Technology,3,2,No,1,3,2,Data Analysis & Statistics
+Faculty of Social Sciences and Humanities,3,5,Yes,5,1,2,Practical & Technical Skills
+Faculty of Technology,3,3,No,1,1,2,Research & Academic Writing
+Faculty of Social Sciences and Humanities,3,3,Yes,3,1,2,Practical & Technical Skills
+Faculty of Technology,3,3,Yes,1,1,2,Research & Academic Writing
+Faculty of Technology,3,4,Yes,3,1,2,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,2,4,Yes,4,1,3,Practical & Technical Skills
+Faculty of Technology,2,4,Yes,1,1,2,Communication & Leadership
+Faculty of Technology,3,4,No,4,1,2,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,3,4,Yes,4,1,2,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,2,4,Yes,2,1,2,Communication & Leadership
+Faculty of Technology,2,3,Yes,1,1,2,Communication & Leadership
+Faculty of Social Sciences and Humanities,2,4,No,4,1,2,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,2,3,No,1,1,2,Research & Academic Writing
+Faculty of Social Sciences and Humanities,3,4,No,1,1,2,Communication & Leadership
+Faculty of Technology,3,5,No,1,1,3,Research & Academic Writing
+Faculty of Social Sciences and Humanities,2,4,Yes,4,1,2,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,2,3,No,1,1,2,Communication & Leadership
+Faculty of Social Sciences and Humanities,2,3,No,1,1,2,Communication & Leadership
+Faculty of Social Sciences and Humanities,4,3,No,4,2,3,Practical & Technical Skills
+Faculty of Medicine and Allied Sciences,1,1,No,5,3,1,Business & Management
+Faculty of Management Studies,2,3,Yes,3,2,3,Creative & Critical Thinking
+Faculty of Applied Sciences,3,3,Yes,5,3,2,Data Analysis & Statistics
+Faculty of Applied Sciences,4,5,No,1,5,4,Communication & Leadership
+Faculty of Management Studies,4,2,No,2,5,3,Communication & Leadership
+Faculty of Technology,5,5,Yes,1,5,1,Research & Academic Writing
+Faculty of Social Sciences and Humanities,2,5,Yes,1,3,1,Communication & Leadership
+Faculty of Applied Sciences,5,2,Yes,2,3,4,Research & Academic Writing
+Faculty of Medicine and Allied Sciences,1,5,Yes,2,5,2,Practical & Technical Skills
+Faculty of Medicine and Allied Sciences,2,5,Yes,3,1,2,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,2,2,No,5,2,1,Practical & Technical Skills
+Faculty of Medicine and Allied Sciences,4,5,Yes,4,1,1,Research & Academic Writing
+Faculty of Technology,4,2,No,5,3,5,Communication & Leadership
+Faculty of Medicine and Allied Sciences,5,4,No,3,5,5,Research & Academic Writing
+Faculty of Technology,5,4,No,1,4,3,Communication & Leadership
+Faculty of Applied Sciences,3,4,No,5,1,5,Data Analysis & Statistics
+Faculty of Medicine and Allied Sciences,2,1,No,4,2,2,Practical & Technical Skills
+Faculty of Technology,4,2,No,2,3,4,Practical & Technical Skills
+Faculty of Medicine and Allied Sciences,1,5,Yes,1,2,1,Practical & Technical Skills
+Faculty of Medicine and Allied Sciences,1,5,Yes,3,2,4,Practical & Technical Skills
+Faculty of Medicine and Allied Sciences,1,3,No,3,3,1,Creative & Critical Thinking
+Faculty of Social Sciences and Humanities,5,3,No,3,2,3,Practical & Technical Skills
+Faculty of Management Studies,2,1,No,5,4,1,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,5,5,Yes,3,3,4,Communication & Leadership
+Faculty of Applied Sciences,4,3,Yes,5,1,4,Research & Academic Writing
+Faculty of Applied Sciences,2,4,Yes,1,5,1,Data Analysis & Statistics
+Faculty of Applied Sciences,2,5,No,4,1,5,Research & Academic Writing
+Faculty of Applied Sciences,2,2,Yes,2,5,3,Practical & Technical Skills
+Faculty of Management Studies,3,4,Yes,2,3,4,Data Analysis & Statistics
+Faculty of Management Studies,3,2,Yes,2,4,3,Research & Academic Writing
+Faculty of Medicine and Allied Sciences,1,5,Yes,2,3,1,Communication & Leadership
+Faculty of Management Studies,2,4,Yes,5,1,4,Practical & Technical Skills
+Faculty of Management Studies,3,2,Yes,5,1,4,Practical & Technical Skills
+Faculty of Applied Sciences,5,2,Yes,2,5,4,Research & Academic Writing
+Faculty of Medicine and Allied Sciences,3,4,Yes,2,4,2,Creative & Critical Thinking
+Faculty of Applied Sciences,5,1,Yes,4,2,1,Research & Academic Writing
+Faculty of Social Sciences and Humanities,2,1,No,3,1,4,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,5,2,Yes,3,5,5,Data Analysis & Statistics
+Faculty of Technology,1,5,No,2,2,3,Practical & Technical Skills
+Faculty of Medicine and Allied Sciences,1,4,No,5,2,4,Practical & Technical Skills
+Faculty of Management Studies,4,1,Yes,3,3,5,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,1,3,Yes,4,4,4,Research & Academic Writing
+Faculty of Applied Sciences,4,5,No,1,5,2,Business & Management
+Faculty of Applied Sciences,1,5,Yes,1,2,3,Practical & Technical Skills
+Faculty of Medicine and Allied Sciences,3,2,Yes,1,3,5,Practical & Technical Skills
+Faculty of Applied Sciences,5,4,Yes,3,3,1,Creative & Critical Thinking
+Faculty of Social Sciences and Humanities,4,2,No,1,4,2,Research & Academic Writing
+Faculty of Technology,4,3,Yes,2,3,2,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,1,4,No,3,3,3,Research & Academic Writing
+Faculty of Management Studies,2,2,Yes,1,2,2,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,4,1,Yes,5,1,4,Data Analysis & Statistics
+Faculty of Management Studies,4,3,Yes,4,2,4,Practical & Technical Skills
+Faculty of Applied Sciences,3,2,Yes,1,4,4,Data Analysis & Statistics
+Faculty of Management Studies,2,5,Yes,4,5,1,Communication & Leadership
+Faculty of Applied Sciences,1,1,No,1,2,5,Communication & Leadership
+Faculty of Management Studies,2,4,No,4,1,4,Communication & Leadership
+Faculty of Social Sciences and Humanities,1,5,Yes,1,2,5,Practical & Technical Skills
+Faculty of Applied Sciences,4,2,No,4,5,4,Practical & Technical Skills
+Faculty of Technology,5,4,No,4,5,3,Practical & Technical Skills
+Faculty of Medicine and Allied Sciences,1,3,Yes,4,4,2,Creative & Critical Thinking
+Faculty of Applied Sciences,3,3,Yes,2,2,1,Communication & Leadership
+Faculty of Agriculture,5,1,Yes,5,4,5,Data Analysis & Statistics
+Faculty of Technology,3,2,No,5,5,2,Business & Management
+Faculty of Applied Sciences,5,4,Yes,2,5,3,Practical & Technical Skills
+Faculty of Management Studies,2,1,Yes,5,3,4,Practical & Technical Skills
+Faculty of Applied Sciences,1,3,Yes,2,2,5,Communication & Leadership
+Faculty of Management Studies,5,4,Yes,3,1,5,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,1,5,No,3,1,3,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,1,4,Yes,3,3,5,Practical & Technical Skills
+Faculty of Technology,2,5,Yes,1,4,5,Creative & Critical Thinking
+Faculty of Medicine and Allied Sciences,4,1,Yes,3,5,5,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,3,3,No,1,2,4,Business & Management
+Faculty of Applied Sciences,2,2,Yes,3,3,5,Communication & Leadership
+Faculty of Agriculture,2,3,Yes,2,1,4,Communication & Leadership
+Faculty of Medicine and Allied Sciences,2,4,Yes,1,3,1,Practical & Technical Skills
+Faculty of Medicine and Allied Sciences,5,1,Yes,4,4,3,Practical & Technical Skills
+Faculty of Management Studies,5,3,Yes,4,4,4,Communication & Leadership
+Faculty of Management Studies,5,2,Yes,5,4,2,Practical & Technical Skills
+Faculty of Medicine and Allied Sciences,5,5,No,1,3,1,Practical & Technical Skills
+Faculty of Applied Sciences,1,3,No,4,1,2,Practical & Technical Skills
+Faculty of Medicine and Allied Sciences,2,4,Yes,1,2,4,Data Analysis & Statistics
+Faculty of Management Studies,4,5,Yes,4,1,5,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,4,4,No,4,4,1,Research & Academic Writing
+Faculty of Management Studies,4,5,Yes,1,1,1,Practical & Technical Skills
+Faculty of Management Studies,1,3,Yes,2,4,3,Communication & Leadership
+Faculty of Management Studies,1,4,Yes,5,1,3,Communication & Leadership
+Faculty of Agriculture,3,4,Yes,3,2,5,Practical & Technical Skills
+Faculty of Applied Sciences,4,5,Yes,1,2,1,Practical & Technical Skills
+Faculty of Applied Sciences,1,3,Yes,2,4,2,Communication & Leadership
+Faculty of Management Studies,2,2,Yes,1,1,3,Data Analysis & Statistics
+Faculty of Social Sciences and Humanities,1,1,Yes,4,2,4,Communication & Leadership
+Faculty of Medicine and Allied Sciences,1,3,Yes,1,4,4,Communication & Leadership
+Faculty of Agriculture,5,2,No,2,4,2,Communication & Leadership
+Faculty of Social Sciences and Humanities,5,4,Yes,1,4,1,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,5,1,Yes,5,2,2,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,4,3,Yes,5,1,4,Practical & Technical Skills
+Faculty of Management Studies,5,5,No,1,3,2,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,2,2,No,3,3,5,Communication & Leadership
+Faculty of Medicine and Allied Sciences,4,3,No,3,5,4,Practical & Technical Skills
+Faculty of Applied Sciences,5,3,Yes,4,4,1,Communication & Leadership
+Faculty of Management Studies,1,3,Yes,4,2,2,Research & Academic Writing
+Faculty of Social Sciences and Humanities,4,2,No,4,2,1,Communication & Leadership
+Faculty of Agriculture,1,2,Yes,1,5,3,Data Analysis & Statistics
+Faculty of Applied Sciences,2,2,No,2,5,1,Data Analysis & Statistics
+Faculty of Medicine and Allied Sciences,1,4,No,4,1,3,Practical & Technical Skills
+Faculty of Medicine and Allied Sciences,4,1,Yes,3,1,1,Data Analysis & Statistics
+Faculty of Technology,1,1,Yes,5,1,2,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,5,1,Yes,5,1,5,Research & Academic Writing
+Faculty of Medicine and Allied Sciences,1,1,Yes,4,4,2,Practical & Technical Skills
+Faculty of Medicine and Allied Sciences,1,5,No,4,2,5,Creative & Critical Thinking
+Faculty of Medicine and Allied Sciences,4,1,Yes,5,4,3,Business & Management
+Faculty of Technology,3,4,Yes,1,5,2,Communication & Leadership
+Faculty of Technology,3,4,Yes,5,3,3,Data Analysis & Statistics
+Faculty of Social Sciences and Humanities,1,1,Yes,2,4,3,Practical & Technical Skills
+Faculty of Applied Sciences,5,2,Yes,2,2,2,Practical & Technical Skills
+Faculty of Social Sciences and Humanities,5,5,No,5,3,1,Data Analysis & Statistics
+Faculty of Social Sciences and Humanities,5,3,Yes,4,3,1,Practical & Technical Skills
+Faculty of Medicine and Allied Sciences,2,1,Yes,4,1,4,Practical & Technical Skills
+Faculty of Applied Sciences,1,1,Yes,1,4,2,Data Analysis & Statistics
+Faculty of Management Studies,1,1,Yes,4,3,3,Creative & Critical Thinking
+Faculty of Technology,1,1,Yes,2,4,2,Creative & Critical Thinking
